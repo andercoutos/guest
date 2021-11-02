@@ -1,11 +1,14 @@
 # Guest
 
-<center>
 Desafio do PHP x Ruby
 
+# Tela
+
+<div align="center">
 
 ![Screenshot](guest.png)
-</center>
+
+</div>
 
 # Configuração
 
