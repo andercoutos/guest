@@ -1,9 +1,11 @@
 # Guest
 
+<center>
 Desafio do PHP x Ruby
 
 
 ![Screenshot](guest.png)
+</center>
 
 # Configuração
 
