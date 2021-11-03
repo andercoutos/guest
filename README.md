@@ -1,6 +1,9 @@
 # Guest
 
-[Desafio do PHP x Ruby](https://twitter.com/leandronsp/status/1455598643927556104)
+Desafio do PHP x Ruby
+
+- [Início da discussão](https://twitter.com/leandronsp/status/1455598643927556104)
+- [Parte final da discussão](https://twitter.com/leandronsp/status/1455711853619916802)
 
 ## Tela
 
