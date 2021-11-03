@@ -1,6 +1,6 @@
 # Guest
 
-[Desafio do PHP x Ruby](https://twitter.com/hackergaucho/status/1455312778860892162)
+[Desafio do PHP x Ruby](https://twitter.com/leandronsp/status/1455598643927556104)
 
 ## Tela
 
