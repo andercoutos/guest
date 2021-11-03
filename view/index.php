@@ -20,7 +20,7 @@
             <form class="" action="save.php" method="post">
                 <label for="">Mensagem</label><br>
                 <textarea name="message" rows="8"></textarea><br>
-                <button type="submit" name="button">Enviar</button>
+                <button type="submit">Enviar</button>
             </form>
         </center>
         <?php

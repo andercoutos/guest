@@ -2,15 +2,20 @@
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
-if(isset($_POST['message'])){
-    $append='<small>'.date('d.M.Y H:i',time()).'</small><p>';
-    $append.=htmlentities($_POST['message']);
-    $append.='</p><hr>'.PHP_EOL;
-    $filename=__DIR__.'/messages.txt';
-    $messages=file_get_contents($filename);
-    if(!file_put_contents($filename, $append.$messages)){
-        die('erro de permissão ao salvar o arquivo');
-    }
+$post_message=false;
+if(@$_POST['message']){
+    $message=$_POST['message'];
+    $post_message=true;
 }
-        header('Location: index.php');
+$prepend='<small>'.date('d.M.Y H:i:s',time()).'</small><p>';
+$prepend.=htmlentities($message);
+$prepend.='</p><hr>'.PHP_EOL;
+$filename=__DIR__.'/messages.txt';
+$messages=file_get_contents($filename);
+if(!file_put_contents($filename, $prepend.$messages, LOCK_EX)){
+    die('erro de permissão ao salvar o arquivo');
+}
+if($post_message){
+    header('Location: index.php');
+}
 ?>

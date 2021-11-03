@@ -13,10 +13,15 @@ Desafio do PHP x Ruby
 # Configuração
 
 ```
-sudo chmod 777 -R .
+sudo chmod 777 messages.txt
 ```
 
-# Execução
+# Execução via socket
+```
+php server.php
+```
+
+# Execução via servidor built-int
 
 ```
 php -S localhost:8000
