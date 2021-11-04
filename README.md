@@ -25,7 +25,7 @@ sudo chmod 777 messages.txt
 php server.php
 ```
 
-## Execução via servidor built-int
+## Execução via servidor built-in
 
 ```
 php -S localhost:8000
