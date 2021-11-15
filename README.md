@@ -2,11 +2,14 @@
 
 Desafio do PHP x Ruby
 
+## No Github
+- [Versão em Go](https://github.com/VitorEstevam/guestbook) por [@VitorEstevam](https://github.com/VitorEstevam)
+- [Versão em Ruby](https://github.com/leandronsp/guestbook) por [@leandronsp](https://github.com/leandronsp/)
+
+## No Twitter
 - [Início da discussão](https://twitter.com/leandronsp/status/1455598643927556104)
 - [Parte final da discussão](https://twitter.com/leandronsp/status/1455711853619916802)
 - [Surge a versão em Go](https://twitter.com/vitorstvm/status/1459756340906270723)
-- [Versão em Ruby](https://github.com/leandronsp/guestbook) por [@leandronsp](https://github.com/leandronsp/)
-- [Versão em Go](https://github.com/VitorEstevam/guestbook) por [@VitorEstevam](https://github.com/VitorEstevam)
 
 ## Tela
 
