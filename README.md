@@ -25,13 +25,13 @@ Fazer um "guestbook" básico que rode no browser grave as mensagens em um arquiv
 sudo chmod 777 messages.txt
 ```
 
-## Execução via socket
-```
-php server.php
-```
-
 ## Execução via servidor built-in
 
 ```
 php -S localhost:8000
+```
+
+## Execução via socket
+```
+php server.php
 ```
