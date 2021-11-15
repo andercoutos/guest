@@ -1,4 +1,4 @@
-# Desafio do PHP x Ruby
+# Desafio do guestbook
 
 Fazer um "guestbook" que rode no browser grave as mensagens em um arquivo "txt" sem usar bibliotecas externas
 
