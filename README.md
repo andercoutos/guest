@@ -1,6 +1,6 @@
-# Guest
+# Desafio do PHP x Ruby
 
-Desafio do PHP x Ruby
+Fazer um "guestbook" que rode no browser grave as mensagens em um arquivo "txt"
 
 ## No Github
 - [Versão em Go](https://github.com/VitorEstevam/guestbook) por [@VitorEstevam](https://github.com/VitorEstevam)
