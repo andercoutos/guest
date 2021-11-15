@@ -1,6 +1,6 @@
-# Desafio do guestbook
+# Desafio do Guestbook
 
-Fazer um "guestbook" que rode no browser grave as mensagens em um arquivo "txt" sem usar bibliotecas externas
+Fazer um "[Guestbook](https://en.wikipedia.org/wiki/Guestbook)" que rode no browser grave as mensagens em um arquivo "txt" sem usar bibliotecas externas
 
 ## No Github
 - [Versão em Go](https://github.com/VitorEstevam/guestbook) por [@VitorEstevam](https://github.com/VitorEstevam)
