@@ -4,7 +4,9 @@ Desafio do PHP x Ruby
 
 - [Início da discussão](https://twitter.com/leandronsp/status/1455598643927556104)
 - [Parte final da discussão](https://twitter.com/leandronsp/status/1455711853619916802)
-- [Versão em Ruby](https://github.com/leandronsp/guestbook)
+- [Surge a versão em Go](https://twitter.com/vitorstvm/status/1459756340906270723)
+- [Versão em Ruby](https://github.com/leandronsp/guestbook) do [https://twitter.com/leandronsp](@leandronsp)
+- [Versão em Go](https://github.com/VitorEstevam/guestbook) do [https://github.com/VitorEstevam](@VitorEstevam)
 
 ## Tela
 
